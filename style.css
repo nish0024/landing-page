@@ -1,0 +1,60 @@
+body {
+display: flex;
+flex-direction: column;
+font-style: Roboto;
+}
+
+.cont1{
+    background-color: #1f2937;
+}
+
+.head {
+    display: flex;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    color: #f9faf8;
+    padding: 10px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 18px;
+  color: #f9faf8;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+h3, button {
+    background-color: #3882f6;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.cont3 {
+    background-color: #e5e7eb;
+}
+
+.quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+}
