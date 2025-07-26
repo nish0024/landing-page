@@ -41,7 +41,7 @@ Through this project, I gained significant experience in:
 
 - This project was inspired by the curriculum at The Odin Project.
 - Icons provided by [Font Awesome](https://fontawesome.com/).
-- Hero image generated using AI.
+- Illustrations by Katerina Limpitsouni from [Undraw](https://undraw.co/).
 
 ## Contact
 
